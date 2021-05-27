@@ -4,4 +4,5 @@
     echo "test";
     echo "<br>";
     echo "sample";
+    echo "hoge";
 ?>
